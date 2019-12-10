@@ -1,0 +1,35 @@
+header {
+	vertical-align: middle;
+}
+
+span {
+	display: inline-block;
+	padding: 0px;
+}
+
+ul {
+	list-style: none;
+	text-align: right;
+	padding: 4px;
+	padding-right: 24px; 
+	padding-left: 24px;
+}
+
+nav {
+	background-color: #eeeeee;
+	align-items: center;
+}
+
+nav ul {
+	position: relative;
+	margin: 0px;
+}
+
+li {
+	display: inline;
+	padding-left: 8px;
+}
+
+#ig {
+	padding: 0px;
+}
